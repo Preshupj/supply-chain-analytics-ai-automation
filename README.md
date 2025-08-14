@@ -1,1 +1,34 @@
 # supply-chain-analytics-ai-automation
+
+# Supply Chain Analytics with AI Automation
+
+**End-to-end supply chain analytics project using modern AI tools - N8N workflow automation and Quadratic AI-powered spreadsheet**
+
+## 🎯 Project Overview
+
+This project demonstrates how to build a complete supply chain analytics solution using AI-powered tools. Follow the journey of Atlart, a Gujarat-based organic food manufacturer expanding to New Jersey, as they solve inventory optimization challenges using modern AI workflow automation.
+
+## 🛠️ Tech Stack
+
+- **N8N**: AI workflow automation for email monitoring and data ingestion
+- **PostgreSQL**: Cloud database hosted on Supabase
+- **Quadratic**: AI-powered spreadsheet for advanced analytics
+- **OpenExchangeRates API**: Real-time currency conversion
+- **Gmail API**: Automated email monitoring
+
+## 📊 What You'll Learn
+
+### Supply Chain Domain Concepts:
+- Order fulfillment metrics (OTIF - On Time In Full)
+- Line Fill Rate vs Volume Fill Rate
+- Inventory optimization strategies
+- Supply chain KPIs and performance measurement
+
+### Technical Skills:
+- Automated data pipeline creation
+- Email-to-database workflow automation
+- AI-powered data analysis and visualization
+- Cloud database setup and management
+- API integrations and data transformations
+
+## 🏗️ Architecture
