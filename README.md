@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This project demonstrates how to build a complete supply chain analytics solution using AI-powered tools. Follow the journey of Atlart, a Gujarat-based organic food manufacturer expanding to New Jersey, as they solve inventory optimization challenges using modern AI workflow automation.
+This project demonstrates how to build a complete supply chain analytics solution using AI-powered tools. Follow the journey of Daniel, a organic food manufacturer expanding to New Jersey, as they solve inventory optimization challenges using modern AI workflow automation.
 
 ## 🛠️ Tech Stack
 
@@ -15,8 +15,6 @@ This project demonstrates how to build a complete supply chain analytics solutio
 - **Quadratic**: AI-powered spreadsheet for advanced analytics
 - **OpenExchangeRates API**: Real-time currency conversion
 - **Gmail API**: Automated email monitoring
-
-## 📊 What You'll Learn
 
 ### Supply Chain Domain Concepts:
 - Order fulfillment metrics (OTIF - On Time In Full)
@@ -31,4 +29,3 @@ This project demonstrates how to build a complete supply chain analytics solutio
 - Cloud database setup and management
 - API integrations and data transformations
 
-## 🏗️ Architecture
