@@ -34,6 +34,7 @@ This project demonstrates how to build a complete supply chain analytics solutio
 <img width="1367" height="373" alt="image" src="https://github.com/user-attachments/assets/ebee04df-30e1-49db-b9e9-96f23d064cb5" />
 
  ### N8N Workflow 
+
 <img width="1030" height="555" alt="image" src="https://github.com/user-attachments/assets/4574a70d-e777-45bc-a979-5a013de45455" />
 
 
