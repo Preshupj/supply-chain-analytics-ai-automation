@@ -29,10 +29,5 @@ This project demonstrates how to build a complete supply chain analytics solutio
 - Cloud database setup and management
 - API integrations and data transformations
 
-flowchart LR
-    email[📧 Email Attachments]
-    n8n[N8N Automation]
-    db[(PostgreSQL Database)]
-    qa[Quadratic Analytics]
+<img width="1367" height="373" alt="image" src="https://github.com/user-attachments/assets/ebee04df-30e1-49db-b9e9-96f23d064cb5" />
 
-    email --> n8n --> db --> qa
